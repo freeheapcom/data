@@ -1,7 +1,8 @@
 # Tech sites
-
+```
 http://www.bumblebeehub.com
 http://gawker.com/
+
 http://gizmodo.com/
 http://www.cnet.com/
 http://www.engadget.com/
@@ -28,9 +29,11 @@ http://blogs.computerworld.com/
 http://www.howtogeek.com/
 http://www.itbusinessedge.com/
 http://www.theverge.com/
-
+```
 
 # Engineering blog
+
+```
 https://engineering.twitter.com/
 https://blog.twitter.com/developer
 http://techblog.netflix.com/
@@ -41,3 +44,4 @@ http://www.seattlepi.com/business/tech/
 http://www.techrepublic.com/blog/windows-and-office/
 https://eng.uber.com/
 https://medium.com/uber-developers
+```
