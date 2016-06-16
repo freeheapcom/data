@@ -1,8 +1,9 @@
 # Tech sites
+
 ```
 http://www.bumblebeehub.com
 http://gawker.com/
-
+http://thenextweb.com
 http://gizmodo.com/
 http://www.cnet.com/
 http://www.engadget.com/
@@ -29,6 +30,17 @@ http://blogs.computerworld.com/
 http://www.howtogeek.com/
 http://www.itbusinessedge.com/
 http://www.theverge.com/
+https://medium.com/
+http://google-opensource.blogspot.com/
+http://venturebeat.com/
+http://appleinsider.com/
+https://googleblog.blogspot.com/
+http://www.techrepublic.com
+http://www.pcmag.com
+http://www.techradar.com/
+http://www.geek.com/
+http://news.ycombinator.com
+http://www.coolest-gadgets.com/
 ```
 
 # Engineering blog
@@ -41,7 +53,12 @@ http://developers.linecorp.com/blog/
 http://nerds.airbnb.com/
 https://technet.microsoft.com/en-us/
 http://www.seattlepi.com/business/tech/
-http://www.techrepublic.com/blog/windows-and-office/
 https://eng.uber.com/
 https://medium.com/uber-developers
+https://code.facebook.com/posts/
+https://developers.googleblog.com/
+https://aws.amazon.com/blogs/aws/
+https://www.awsarchitectureblog.com/
+http://www.allthingsdistributed.com/
+http://www.opensource-techblog.com/
 ```
