@@ -41,6 +41,7 @@ http://www.techradar.com/
 http://www.geek.com/
 http://news.ycombinator.com
 http://www.coolest-gadgets.com/
+http://gigaom.com
 ```
 
 # Engineering blog
@@ -61,4 +62,7 @@ https://aws.amazon.com/blogs/aws/
 https://www.awsarchitectureblog.com/
 http://www.allthingsdistributed.com/
 http://www.opensource-techblog.com/
+https://developers.facebook.com/blog/
+https://www.facebook.com/Engineering/
+https://engineering.linkedin.com/blog
 ```
