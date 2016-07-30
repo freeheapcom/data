@@ -65,4 +65,8 @@ http://www.opensource-techblog.com/
 https://developers.facebook.com/blog/
 https://www.facebook.com/Engineering/
 https://engineering.linkedin.com/blog
+https://databricks.com/blog
+http://www.datastax.com/dev
+https://blog.docker.com/category/engineering/
+
 ```
