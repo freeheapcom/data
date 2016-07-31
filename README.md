@@ -70,3 +70,10 @@ http://www.datastax.com/dev
 https://blog.docker.com/category/engineering/
 
 ```
+
+# Blacklist
+
+```
+https://mail.google.com
+
+```
