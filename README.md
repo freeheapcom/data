@@ -68,6 +68,7 @@ https://engineering.linkedin.com/blog
 https://databricks.com/blog
 http://www.datastax.com/dev
 https://blog.docker.com/category/engineering/
+https://www.oreilly.com/ideas
 
 ```
 
