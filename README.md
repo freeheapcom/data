@@ -574,7 +574,7 @@ http://rocksdb.org/blog
 http://blog.rust-lang.org/
 https://developer.apple.com/swift/blog/
 http://www.vertabelo.com/blog
-
+https://blog.treasuredata.com/blog
 
 
 ```
